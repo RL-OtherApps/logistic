@@ -2,11 +2,11 @@
 {
     'name': "Logistics Management",
     'summary': """
-        Logistic management system developed based on odoo 12 enterprise, it helps logistics companies 
-        to manage their shipments and documentation.""",
+        Logistic management system developed based on odoo 12 enterprise, it helps logistics companies
+        to manage their shipments and documentation ok.""",
 
     'description': """
-        Logistic module developed based on odoo 12 enterprise, it helps logistics companies 
+        Logistic module developed based on odoo 12 enterprise, it helps logistics companies
         to manage their shipments and documentations.
     """,
 
@@ -51,7 +51,7 @@
        'views/route.xml',
        'views/job_position.xml',
        'views/dhl_logistic_views.xml',
-       'views/menus_views.xml',  
-       'security/security.xml'    
+       'views/menus_views.xml',
+       'security/security.xml'
     ],
 }
